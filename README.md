@@ -14,7 +14,7 @@ You might be required to authorize integration between Github and Google Colab
 
 ## Setup/Installation
 
-Once you open the Notebook in the repo, click on the "Open in Google Colab" button at the top of the page
+Once you open the Notebook in the repo, click on the "Open in Google Colab" button at the top of the page.
 
 
 
