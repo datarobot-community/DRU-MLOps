@@ -7,14 +7,14 @@
 
 ## Repository Contents
 
-Link to Google Colab notebook: https://colab.research.google.com/drive/16tncEQxD8ZbfrbrgnqbAk86y_26uAKHL
-
-You might be required to authorize integration between Github and Google Colab
+`12Nov2020_MLOps_II_Laboratory.ipynb` contains the code needed for the DRU MLOps II course. 
 
 
 ## Setup/Installation
 
 Once you open the Notebook in the repo, click on the "Open in Google Colab" button at the top of the page.
+
+You might be required to authorize integration between Github and Google Colab.
 
 
 
