@@ -7,7 +7,7 @@
 
 ## Repository Contents
 
-`17Dec2020_MLOps_II_Laboratory.ipynb` contains the code needed for the DRU MLOps II course. 
+`15Jan2021_MLOps_II_Laboratory.ipynb` contains the code needed for the DRU MLOps II course. 
 
 
 ## Setup/Installation
