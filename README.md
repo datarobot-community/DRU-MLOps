@@ -1,13 +1,15 @@
 # MLOps II Laboratory
 
 
-- This repository contains a Google Colab notebook which will be uses for the practical laboratory activity in the MLOps II class
-- This repo will be shared with the MLOps students so that they can follow up the laborstory in their own Colab runtimes
+- This repository contains Google Colab notebooks which will be used for the practical laboratory activities in the MLOps II & III classes
+- This repo will be shared with the MLOps students so that they can follow up the laboratory in their own Colab runtimes
 
 
 ## Repository Contents
 
-`15Jan2021_MLOps_II_Laboratory.ipynb` contains the code needed for the DRU MLOps II course. 
+- `29Apr2021_MLOps_II_Laboratory.ipynb` contains the code needed for the DRU MLOps II course. 
+- `27May2021 - MLOps_III_DRUM_Lab.ipynb` contains the code needed for the DRU MLOps III DRUM activity. 
+
 
 
 ## Setup/Installation
